@@ -53,7 +53,7 @@ $ cd backend-fastify
 $ npm install
 
 # start server
-$ npm start `or` $ npm run dev
+$ npm start
 
 ```
 
